@@ -1,5 +1,5 @@
 # DriverUpdatersDownloader
-This is a PowerShell script that automates the process of downloading and installing drivers for your Windows computer. This script uses the SDI Tool and DriversCloud to identify and download the latest drivers for your computer. It also includes an option to download and run PatchMyPC to update your software.
+This is a PowerShell script that automates the process of downloading and installing drivers and programs for your Windows computer. This script uses the SDI Tool and DriversCloud to identify and download the latest drivers for your computer. It also includes an option to download and run PatchMyPC to update your software.
 
 # Prerequisites
 This script requires the following:
