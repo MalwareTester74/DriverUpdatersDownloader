@@ -22,5 +22,5 @@ This script is licensed under the **MIT License.**
 # ⚠️ Disclaimer
 This script is provided as-is and without warranty of any kind. The author is not responsible for any damage caused by the use or misuse of this script. It is recommended to backup important data before using this script.
 
-# 🚨 ATTENTION
-This script is currently in beta and is constantly being developed.
+# 🚨 Attention
+This script is currently in **Beta** and is constantly being developed.
