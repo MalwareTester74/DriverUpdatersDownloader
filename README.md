@@ -15,7 +15,8 @@ Open PowerShell as an administrator.
 Navigate to the directory where the script is located.
 Run the script by right-clicking it and click Run as Administrator.
 Follow the prompts to download and install the latest drivers and programs for your computer.
-License
+
+# License
 
 **This script is licensed under the MIT License.**
 
