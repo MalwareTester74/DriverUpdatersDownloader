@@ -10,10 +10,9 @@ This script requires the following:
 To use this script, follow these steps:
 
 1. Download the script to your desktop.
-2. Open PowerShell as an administrator.
-3. Navigate to the directory where the script is located.
-4. Run the script by right-clicking it and click Run as Administrator.
-5. Follow the prompts to download and install the latest drivers and programs for your computer.
+2. Navigate to the directory where the script is located.
+3. Run the script by right-clicking it and click Run as Administrator.
+4. Follow the prompts to download and install the latest drivers and programs for your computer.
 
 # 📝 License
 
