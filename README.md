@@ -13,8 +13,8 @@ To use this script, follow these steps:
 Download the script to your desktop.
 Open PowerShell as an administrator.
 Navigate to the directory where the script is located.
-Run the script by entering .\DriverInstaller.ps1 in the PowerShell prompt.
-Follow the prompts to download and install the latest drivers for your computer.
+Run the script by right-clicking it and click Run as Administrator.
+Follow the prompts to download and install the latest drivers and programs for your computer.
 License
 
 **This script is licensed under the MIT License.**
