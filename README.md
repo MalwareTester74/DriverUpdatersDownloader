@@ -4,8 +4,7 @@ This is a PowerShell script that automates the process of downloading and instal
 # 🔍 Prerequisites
 This script requires the following:
 
-*Windows 7 or newer*
-*PowerShell 5.1 or newer*
+*Windows 7 or newer* and *PowerShell 5.1 or newer*
 
 # 💻 Usage
 To use this script, follow these steps:
@@ -22,3 +21,6 @@ This script is licensed under the **MIT License.**
 
 # ⚠️ Disclaimer
 This script is provided as-is and without warranty of any kind. The author is not responsible for any damage caused by the use or misuse of this script. It is recommended to backup important data before using this script.
+
+# 🚨 ATTENTION
+This script is currently in beta and is constantly being developed.
